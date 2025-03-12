@@ -1,0 +1,9 @@
+Non-commercial Use License:
+You are free to use, modify, and distribute this software for non-commercial purposes.
+Commercial use is prohibited without obtaining a commercial license.
+The original creator needs to be credited you make something based on the program, code, or anything else in question.
+
+Commercial Use License:
+If you wish to use this software for commercial purposes, you must contact the original author to obtain a commercial license.
+Terms of the commercial license will be negotiated separately. However commercial use without contacting the original author is strictly prohibited.
+Commercializing anything based on the program, code, or anything else in question without EXPLICIT permission is not allowed.
