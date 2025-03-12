@@ -9,3 +9,6 @@ EXCEPT if you want to commercialize it.
 
 As previously mentioned, the code remains untested. This is what I call LTCSinfo_v0.1.0 or LTCSinfo Alpha as it is very much in early development
 and literally the most basic version for now.
+
+CONTACT INFORMATION!
+- jakovfranjetic@gmail.com
